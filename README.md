@@ -1,4 +1,4 @@
-<marquee># Nguyen Chi Hai</marquee>
+# Nguyen Chi Hai
 
 ## AI Engineer | AI Marketing Specialist | Machine Learning Enthusiast
 
