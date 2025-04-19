@@ -53,3 +53,6 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
   - **Role**: Backend AI development and **UR5 robot integration**  
   - Designed a game that allowed players to role-play students experiencing school events in **3D**.  
   - Page on Facebook: [Ra Khoi 2023](https://www.facebook.com/profile.php?id=100092493644972)
+ 
+  ## 📫 Connect with Me
+  **Email** hainguyen18424@gmail.com
