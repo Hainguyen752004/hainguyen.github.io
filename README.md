@@ -15,6 +15,13 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 - Natural Language Processing
 - Deep Learning
 - Data Science
+## 💻 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hainguyen752004&show_icons=true&theme=radical)
+
+## 💬 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
 
 ## 🏆 Competitions & Awards
 
