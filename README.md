@@ -16,7 +16,7 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 - Deep Learning
 - Data Science
 
-🏆 Competitions & Awards
+## 🏆 Competitions & Awards
 
 - **Third Prize** – **CV Challenge** organized by **Van Lang University and TopCV**  
   *Mar 2025 – Apr 2025*
