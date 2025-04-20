@@ -39,6 +39,8 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hainguyen752004)](https://github.com/ryo-ma/github-profile-trophy)o
+
 ## 🧠 Tools & Frameworks
 
 ###  Programming Languages
@@ -114,4 +116,4 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
   ## 📫 Connect with Me
   **Email** hainguyen18424@gmail.com
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Hainguyen752004)](https://github.com/ryo-ma/github-profile-trophy)
+
