@@ -1,6 +1,4 @@
-<p align="center">
-  <marquee behavior="scroll" direction="left" style="font-size: 36px; color: #FF6347;"># Nguyen Chi Hai</marquee>
-</p>
+#   Nguyen Chi Hai 
 
 ## AI Engineer | AI Marketing Specialist | Machine Learning Enthusiast
 
