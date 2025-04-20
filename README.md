@@ -39,6 +39,20 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
 
+## Skills 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=github&logoColor=black)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## 🏆 Competitions & Awards
 
 - **Third Prize** – **CV Challenge** organized by **Van Lang University and TopCV**  
