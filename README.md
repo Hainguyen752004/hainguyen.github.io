@@ -41,13 +41,13 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 
 ## 🧠 Tools & Frameworks
 
-### 🧑‍💻 Programming Languages
+###  Programming Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-Basic-blue?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -56,7 +56,7 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </div>
 
-### 📸 Computer Vision & OCR
+###  Computer Vision & OCR
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/OCR-EasyOCR-ff69b4?style=for-the-badge"/>
@@ -65,13 +65,13 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
   <img src="https://img.shields.io/badge/YOLOv11-008B8B?style=for-the-badge&logo=github&logoColor=black"/>
 </div>
 
-### 💬 NLP & Data
+###  NLP & Data
 <div align="center">
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </div>
 
-### ⚙️ Tools & Platforms
+###  Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
