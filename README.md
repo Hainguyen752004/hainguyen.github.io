@@ -21,6 +21,12 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hainguyen752004&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Hainguyen752004&theme=radical&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hainguyen752004&label=Profile%20views&color=0e75b6&style=flat)
+
 ## 💬 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
